@@ -1,0 +1,19 @@
+/*selector{
+	property: value;
+}*/
+
+/*h2{
+	color: red;
+}*/
+
+.nav-menu{
+	display: flex;
+	list-style: none;
+	font-size: 2em;
+	margin: 0;
+
+}
+
+li{
+	padding: 20px;
+}
